@@ -15,3 +15,4 @@ So have fun, go a little nuts! :P
 | 6       | Walnut
 | 7       | Macadamia
 | 8       | Brazilian
+| 9       | Hazelnuts
